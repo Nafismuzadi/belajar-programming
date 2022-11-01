@@ -1,4 +1,4 @@
 SAYA INGIN BELAJAR BAHASA PEMOGRAMAN
--Python
+-Python (sedang berlangsung)
 -C++
 -PHP
