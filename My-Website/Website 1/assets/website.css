@@ -1,0 +1,24 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: arial;
+}
+.header {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: black;
+	color: white;
+}
+.header h1 {
+	margin-left: 70px;
+	text-decoration: underline;
+}
+.header h3 {
+	margin-left: 150px;
+}
+.nav ul li a {
+	color: white;
+	text-decoration: none;
+}

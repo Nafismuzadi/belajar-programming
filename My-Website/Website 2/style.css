@@ -1,0 +1,31 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+.container {
+	background-color: blue;
+}
+.navbar {
+	background-color: red;
+}
+.navbar ul li {
+	padding-top: 20px;
+	background-color: dark;
+	display: inline-block;
+	padding-bottom: 20px;
+}
+h1 {
+	padding-top: 25px;
+	text-decoration: underline;
+	margin-left: 120px;
+	margin-bottom: -28px;
+	font-size: 30px;
+	color: whitesmoke;
+}
+p {
+	margin-left: 190px;
+	font-size: 23px;
+	color: whitesmoke;
+	padding-bottom: 35px;
+	padding-top: 30px;
+}

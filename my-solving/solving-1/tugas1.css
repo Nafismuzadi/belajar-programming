@@ -1,0 +1,62 @@
+body {
+	background-image: url(background.jpg);
+	background-size: cover;
+	background-repeat: repeat-x;
+	color: white;
+
+}
+.head-table-tokopedia {
+	color: floralwhite;
+	text-decoration: none;
+	background-color: green;
+	padding: 5px;
+	font-size: 30px;
+	border-radius: 25px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 3px;
+	padding-top: 3px;
+}
+.head-table-shopee {
+	color: floralwhite;
+	text-decoration: none;
+}
+.head-table-lazada {
+	color: floralwhite;
+	text-decoration: none;
+}
+.head-table-bukalapak {
+	color: floralwhite;
+	text-decoration: none;
+}
+.head-table-blibli {
+	color: floralwhite;
+	text-decoration: none;
+}
+h1 {
+	margin-top: 80px;
+	text-align: center;
+	margin-bottom: -50px;
+	font-style: unset;
+	text-decoration: ;
+}
+ul li {
+	display: inline-block;
+	margin: 10px;
+}
+.list-item-file {
+	text-decoration: none;
+	color: red;
+}
+.list-item-edit {
+	text-decoration: none;
+	color: red;
+}
+.list-item-find {
+	text-decoration: none;
+	color: red;
+}
+.list-item-view {
+	text-decoration: none;
+	color: red;
+}
